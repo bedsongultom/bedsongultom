@@ -17,7 +17,7 @@ OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FC
 
 ##### Top Languages Here:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugena&layout=compact&count_private=true&show_icons=True)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bedsongultom&layout=compact&count_private=true&show_icons=True)
 
 
 
@@ -26,7 +26,7 @@ OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FC
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/bedson.gultom/)](https://www.instagram.com/bedson.gultom/)
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&labelColor=26A5E4&logo=telegram&logoColor=white&link=https://t.me/eugena)](https://t.me/bedsongultom)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&labelColor=26A5E4&logo=telegram&logoColor=white&link=https://t.me/bedsongultom)](https://t.me/bedsongultom)
 
 
 
