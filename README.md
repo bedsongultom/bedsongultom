@@ -10,7 +10,7 @@ DataBases                | ![PostgreSQL Badge](https://img.shields.io/badge/-Pos
 IDE, Tools               | ![Sublime Badge](https://img.shields.io/badge/-Sublime-FF9800?style=flat-square&logo=sublime%20text&logoColor=white&color=FF9800) 
 Version Control          | ![git Badge](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white&color=F05032) ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&color=181717) ![BitBucket Badge](https://img.shields.io/badge/-BitBucket-0052CC?style=flat-square&logo=BitBucket&logoColor=white&color=0052CC) ![GitLab Badge](https://img.shields.io/badge/-GitLab-F05032?style=flat-square&logo=GitLab&logoColor=white&color=FCA121)
 DevOps                   | ![GitHub Actions Badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white&color=2088FF) 
-OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=000&color=FCC624) ![Windows Badge](https://img.shields.io/badge/-Windows-FFFFFF?style=flat-square&logo=Windows&logoColor=FFFFFF&color=6495ED)
+OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=000&color=FCC624) ![FreeBSD Badge](https://img.shields.io/badge/-FreeBSD-ff3346%20?style=flat-square&logo=FreeBSD&logoColor=ff3346&color=000000) ![Windows Badge](https://img.shields.io/badge/-Windows-FFFFFF?style=flat-square&logo=Windows&logoColor=FFFFFF&color=6495ED) 
 
 
 
