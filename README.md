@@ -13,6 +13,7 @@ DevOps                   | ![GitHub Actions Badge](https://img.shields.io/badge/
 OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=000&color=FCC624) ![FreeBSD Badge](https://img.shields.io/badge/-FreeBSD-ff3346%20?style=flat-square&logo=FreeBSD&logoColor=ff3346&color=000000) ![Windows Badge](https://img.shields.io/badge/-Windows-FFFFFF?style=flat-square&logo=Windows&logoColor=FFFFFF&color=6495ED) 
 
 
+##### Github Stats:
 
 ![BedsonGultom's github stats](https://github-readme-stats.vercel.app/api?username=bedsongultom&show_icons=true&theme=nightowl)
 
