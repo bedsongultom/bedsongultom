@@ -14,7 +14,7 @@ OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FC
 
 
 
-
+![BedsonGultom's github stats](https://github-readme-stats.vercel.app/api?username=bedsongultom-mai&show_icons=true&theme=nightowl)
 
 
 ##### Top Languages Here:
