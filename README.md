@@ -27,9 +27,10 @@ OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FC
 ##### Follow me around the web 👍🏻:
 
 🔗 Website: https://bedsongultom.github.io/<br/>
-📺 Youtube: https://www.youtube.com/c/bedsongultom<br/>
+📺 Youtube: https://www.youtube.com/channel/UCMyFy_5u0VdzJztv7LI6iGg<br/>
 ✉️ Email: gultom.bedson@protonmail.com<br/>
 
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-E4405F?style=flat-square&labelColor=E4405F&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCMyFy_5u0VdzJztv7LI6iGg/)](https://www.youtube.com/channel/UCMyFy_5u0VdzJztv7LI6iGg/)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/bedson.gultom/)](https://www.instagram.com/bedson_gultom/)
 
