@@ -26,15 +26,17 @@ OS                       | ![Linux Badge](https://img.shields.io/badge/-Linux-FC
 
 ##### Follow me around the web 👍🏻:
 
-🔗 Website: https://bedsongultom.github.io/<br/>
-📺 Youtube: https://www.youtube.com/channel/UCMyFy_5u0VdzJztv7LI6iGg<br/>
-✉️ Email: gultom.bedson@protonmail.com<br/>
+Information              | Link
+-------------------------|-------------------------------------------------------------------
+Youtube                  |[![Youtube Badge](https://img.shields.io/badge/-Youtube-E4405F?style=flat-square&labelColor=E4405F&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCMyFy_5u0VdzJztv7LI6iGg/)](https://www.youtube.com/channel/UCMyFy_5u0VdzJztv7LI6iGg/)
+Instagram                | [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/bedson.gultom/)](https://www.instagram.com/bedson_gultom/)
+Telegram                 | [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&labelColor=26A5E4&logo=telegram&logoColor=white&link=https://t.me/bedsongultom)](https://t.me/bedsongultom)
+Email                    |[![Email Badge](https://img.shields.io/badge/-ProtonMail-26A5E4?style=flat-square&labelColor=26A5E4&logo=protonmail&logoColor=white&link=gultom.bedson@protonmail.com)](gultom.bedson@protonmail.com)
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-E4405F?style=flat-square&labelColor=E4405F&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCMyFy_5u0VdzJztv7LI6iGg/)](https://www.youtube.com/channel/UCMyFy_5u0VdzJztv7LI6iGg/)
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/bedson.gultom/)](https://www.instagram.com/bedson_gultom/)
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&labelColor=26A5E4&logo=telegram&logoColor=white&link=https://t.me/bedsongultom)](https://t.me/bedsongultom)
+
+
 
 
 
