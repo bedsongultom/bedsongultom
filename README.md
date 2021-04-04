@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bedsongultom
-- 👀 I’m interested in javascript, java, php (codeigniter 4 framework, reactjs, nodejs)
+- 👀 I’m interested in javascript, java, kotlin, php (codeigniter 4 framework, reactjs, nodejs)
 - 🌱 I’m currently learning nodejs and reactjs...
 
 key                      |value
