@@ -5,7 +5,7 @@
 #### 🔴 Subscribe to [Bedson Gultom Channel](https://www.youtube.com/channel/UCMyFy_5u0VdzJztv7LI6iGg)!
 
 <a href='https://www.youtube.com/watch?v=C_f2JCB60Go' target='_blank'>
-  <img width='30%' src='' alt='' />
+  <img width='30%' src='https://www.youtube.com/watch?v=C_f2JCB60Go' alt='' />
 </a>
 <a href='https://www.youtube.com/watch?v=C_f2JCB60Go' target='_blank'>
   <img width='30%' src='' alt='' />
