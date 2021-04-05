@@ -12,8 +12,8 @@
   <img width='30%' src='https://img.youtube.com/vi/lSPMPz_garc/mqdefault.jpg' alt='How to restore or import postgresql database on debian through terminal' />
 </a>
 
-<a href='https://youtu.be/C_f2JCB60Go' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/C_f2JCB60Go/mqdefault.jpg' alt='The terminal prompt string on debian linux' />
+<a href='https://youtu.be/Va-ZlIMFCys' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Va-ZlIMFCys/mqdefault.jpg' alt='How to backup or export postgresql database on debian through terminal' />
 </a>
 
 
