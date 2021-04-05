@@ -5,14 +5,15 @@
 #### 🔴 Subscribe to [Bedson Gultom Channel](https://www.youtube.com/channel/UCMyFy_5u0VdzJztv7LI6iGg)!
 
 <a href='https://youtu.be/C_f2JCB60Go' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/C_f2JCB60Go/bgdeafult.jpg' alt=' How to change The terminal prompt string on debian linux' />
+  <img width='30%' src='https://img.youtube.com/vi/C_f2JCB60Go/mqdefault.jpg' alt='The terminal prompt string on debian linux' />
 </a>
 
 <a href='https://youtu.be/C_f2JCB60Go' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/C_f2JCB60Go/bgdeafult.jpg' alt=' How to change The terminal prompt string on debian linux' />
+  <img width='30%' src='https://img.youtube.com/vi/C_f2JCB60Go/mqdefault.jpg' alt='The terminal prompt string on debian linux' />
 </a>
+
 <a href='https://youtu.be/C_f2JCB60Go' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/C_f2JCB60Go/bgdeafult.jpg' alt=' How to change The terminal prompt string on debian linux' />
+  <img width='30%' src='https://img.youtube.com/vi/C_f2JCB60Go/mqdefault.jpg' alt='The terminal prompt string on debian linux' />
 </a>
 
 
