@@ -2,6 +2,18 @@
 - 👀 I’m interested in javascript, java, kotlin, php (codeigniter 4 framework, reactjs, nodejs)
 - 🌱 I’m currently learning nodejs and reactjs...
 
+#### 🔴 Subscribe to [Bedson Gultom Channel](https://www.youtube.com/channel/UCMyFy_5u0VdzJztv7LI6iGg)!
+
+<a href='https://www.youtube.com/watch?v=C_f2JCB60Go' target='_blank'>
+  <img width='30%' src='' alt='' />
+</a>
+<a href='https://www.youtube.com/watch?v=C_f2JCB60Go' target='_blank'>
+  <img width='30%' src='' alt='' />
+</a>
+<a href='https://www.youtube.com/watch?v=C_f2JCB60Go' target='_blank'>
+  <img width='30%' src='' alt='' />
+</a>
+
 key                      |value
 -------------------------|-------------------------------------------------------------------
 Programming Languages    |![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000&color=F7DF1E) ![Java Badge](https://img.shields.io/badge/-Java-7952B3?style=flat-square&logo=Java&logoColor=orange&color=fff) ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-7952B3?style=flat-square&logo=Kotlin&logoColor=blue&color=orange) ![PHP Badge](https://img.shields.io/badge/-PHP-7952B3?style=flat-square&logo=PHP&logoColor=white&color=7952B3) ![SQL Badge](https://img.shields.io/badge/-SQL-609540?style=flat-square&logo=elastic%20stack&logoColor=white&color=609540) ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white&color=E34F26) ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)
