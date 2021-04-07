@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bedsongultom
-- 👀 I’m interested in javascript, java, kotlin, php (codeigniter 4 framework, reactjs, nodejs)
+- 👀 I’m interested in javascript(ReactJS, NodeJS), java, kotlin, php (codeigniter 4 framework)
 - 🌱 I’m currently learning nodejs and reactjs...
 
 #### 🔴 Subscribe to [Bedson Gultom Channel](https://www.youtube.com/channel/UCMyFy_5u0VdzJztv7LI6iGg)!
