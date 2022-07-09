@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bedsongultom
 - 👀 I’m interested in javascript(ReactJS, VueJs,NodeJs) java, php (codeigniter  framework)
-- 🌱 I’m currently learning nodejs and reactjs...
+
 
 #### 🔴 Subscribe to [Bedson Gultom Channel](https://www.youtube.com/channel/UCMyFy_5u0VdzJztv7LI6iGg)!
 
